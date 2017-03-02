@@ -6,6 +6,9 @@
 % J. Shao, C. C. Loy, X. Wang, "Scene-Independent Group Profiling in Crowd", CVPR, 2014.
 clc;clear;close all
 
+%% add path
+addpath(genpath('./'));
+
 %% group detection parameter setting
 path = '.\';
 file_name = '1_8_groupSplit-festivalwalk_1_2-1'; 
