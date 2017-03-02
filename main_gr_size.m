@@ -5,7 +5,7 @@
 % If you use this code, please cite the paper:
 % J. Shao, C. C. Loy, X. Wang, "Scene-Independent Group Profiling in Crowd", CVPR, 2014.
 
-% clc;clear;close all
+clc;clear;close all
 
 %% Descriptor -- Group size 
 path = '.\';
